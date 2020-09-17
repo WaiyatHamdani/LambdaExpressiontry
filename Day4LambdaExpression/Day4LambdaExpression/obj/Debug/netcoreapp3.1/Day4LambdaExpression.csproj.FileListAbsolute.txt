@@ -1,0 +1,13 @@
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\bin\Debug\netcoreapp3.1\Day4LambdaExpression.exe
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\bin\Debug\netcoreapp3.1\Day4LambdaExpression.deps.json
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\bin\Debug\netcoreapp3.1\Day4LambdaExpression.runtimeconfig.json
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\bin\Debug\netcoreapp3.1\Day4LambdaExpression.runtimeconfig.dev.json
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\bin\Debug\netcoreapp3.1\Day4LambdaExpression.dll
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\bin\Debug\netcoreapp3.1\Day4LambdaExpression.pdb
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\obj\Debug\netcoreapp3.1\Day4LambdaExpression.csprojAssemblyReference.cache
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\obj\Debug\netcoreapp3.1\Day4LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\obj\Debug\netcoreapp3.1\Day4LambdaExpression.AssemblyInfo.cs
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\obj\Debug\netcoreapp3.1\Day4LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\obj\Debug\netcoreapp3.1\Day4LambdaExpression.dll
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\obj\Debug\netcoreapp3.1\Day4LambdaExpression.pdb
+C:\Users\waiya\source\repos\Day4LambdaExpression\Day4LambdaExpression\obj\Debug\netcoreapp3.1\Day4LambdaExpression.genruntimeconfig.cache
